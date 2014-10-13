@@ -60,7 +60,7 @@ line-height: 25px;}
   	<div class="title2">图书屋</div>
   	<div class="nav-top"><a href="">返回首页</a></div>
   	<h1>用户更新成功</h1>
-  	
+  	<h1>请您继续使用</h1>
 	<div style="clear:both"></div>
    	<div class="footer">
    	实验2：MVC编程与云平台部署@2014 1120310202-王立群

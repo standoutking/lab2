@@ -146,6 +146,7 @@ text-align: center;
 	</style>
   </head>
   <body>
+	<h1>欢迎使用图书管理系统</h1>
   	<div class="title2">图书屋</div>
   	<div class="nav-top"><h6 align = "left">网站首页</h6></div>
   	<form name="form" method="post" action="#">
